@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "refmap": "forbidden-arcanus-guard.refmap.json",
+    "package": "rmc.mixins.forbidden_arcanus_guard.inject",
+    "mixins": [
+        "ChorusPearlEntityMixin",
+        "EnergyBallEntityMixin"
+    ]
+}
